@@ -1,5 +1,3 @@
-## NAME:HARISH S
-## REG NO:212223230071
 ## RANK-OF-A-MATRIX
 ## Aim:
 To write a python program to find the rank of a matrix
